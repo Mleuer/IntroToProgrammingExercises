@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d5ce079-bd1d-412d-b8b9-ad6e8b7b5401" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.IntroToProgrammingExercises/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.IntroToProgrammingExercises/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.IntroToProgrammingExercises/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.IntroToProgrammingExercises/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroToProgrammingExercises.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroToProgrammingExercises/Counter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroToProgrammingExercises/DeckOfCards.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroToProgrammingExercises/IntroToProgrammingExercises.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroToProgrammingExercises/PairOfDice.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroToProgrammingExercises/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroToProgrammingExercises/StatCalc.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IntroToProgrammingExercises/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+              <folding>
+                <marker date="1550191427944" expanded="true" signature="6:38" ph="..." />
+                <marker date="1550191427944" expanded="true" signature="78:1363" ph="{...}" />
+                <marker date="1550191427944" expanded="true" signature="98:1361" ph="{...}" />
+                <marker date="1550191427944" expanded="true" signature="144:1355" ph="{...}" />
+                <marker date="1550191427944" expanded="true" signature="155:715" ph="/* StatCalc calc = new StatCalc(); ... */" />
+                <marker date="1550191427944" expanded="true" signature="908:1161" ph="{...}" />
+                <marker date="1550191427944" expanded="true" signature="969:1048" ph="{...}" />
+                <marker date="1550191427944" expanded="true" signature="1069:1147" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IntroToProgrammingExercises/DeckOfCards.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="108" column="10" selection-start-line="89" selection-end-line="108" selection-end-column="10" />
+              <folding>
+                <marker date="1550191388148" expanded="true" signature="52:4727" ph="{...}" />
+                <marker date="1550191388148" expanded="true" signature="76:4345" ph="{...}" />
+                <marker date="1550191388148" expanded="true" signature="93:278" ph="/* This card's suit, one of the constants SPADES, HEARTS, DIAMONDS, ... */" />
+                <marker date="1550191388148" expanded="true" signature="330:589" ph="/* The card's value.  For a normal cards, this is one of the values ... */" />
+                <marker date="1550191388148" expanded="true" signature="646:798" ph="/* Creates a Joker, with 1 as the associated value.  (Note that ... */" />
+                <marker date="1550191388148" expanded="true" signature="799:897" ph="/* public Card() { ... */" />
+                <marker date="1550191388148" expanded="true" signature="913:1561" ph="/* Creates a card with a specified suit and value. ... */" />
+                <marker date="1550191388148" expanded="true" signature="1614:2017" ph="{...}" />
+                <marker date="1550191388148" expanded="true" signature="2030:2222" ph="/* Returns the suit of this card. ... */" />
+                <marker date="1550191388148" expanded="true" signature="2252:2285" ph="{...}" />
+                <marker date="1550191388148" expanded="true" signature="2301:2505" ph="/* Returns the value of this card. ... */" />
+                <marker date="1550191388148" expanded="true" signature="2541:2575" ph="{...}" />
+                <marker date="1550191388148" expanded="true" signature="2591:2766" ph="/* Returns a String representation of the card's suit. ... */" />
+                <marker date="1550191388148" expanded="true" signature="2806:3097" ph="{...}" />
+                <marker date="1550191388148" expanded="true" signature="2834:3088" ph="{...}" />
+                <marker date="1550191388148" expanded="true" signature="3113:3374" ph="/* Returns a String representation of the card's value. ... */" />
+                <marker date="1550191388148" expanded="true" signature="3375:4000" ph="/* public String getValueAsString() { ... */" />
+                <marker date="1550191388148" expanded="true" signature="4016:4339" ph="/* Returns a string representation of this card, including both ... */" />
+                <marker date="1550191388148" expanded="true" signature="4376:4458" ph="{...}" />
+                <marker date="1550191388148" expanded="true" signature="4492:4713" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IntroToProgrammingExercises/PairOfDice.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+              <folding>
+                <marker date="1549931081196" expanded="true" signature="52:807" ph="{...}" />
+                <marker date="1549931081196" expanded="true" signature="83:787" ph="{...}" />
+                <marker date="1549931081196" expanded="true" signature="247:334" ph="{...}" />
+                <marker date="1549931081196" expanded="true" signature="367:454" ph="{...}" />
+                <marker date="1549931081196" expanded="true" signature="482:781" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IntroToProgrammingExercises/Counter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+              <folding>
+                <marker date="1550190936218" expanded="true" signature="6:75" ph="..." />
+                <marker date="1550190936218" expanded="true" signature="114:903" ph="{...}" />
+                <marker date="1550190936218" expanded="true" signature="141:901" ph="{...}" />
+                <marker date="1550190936218" expanded="true" signature="166:666" ph="/* For this problem, you should write a very simple but complete class. ... */" />
+                <marker date="1550190936218" expanded="true" signature="727:812" ph="{...}" />
+                <marker date="1550190936218" expanded="true" signature="845:886" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>final</find>
+      <find>const static</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>const</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/IntroToProgrammingExercises/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IntroToProgrammingExercises/DeckOfCards.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IntroToProgrammingExercises/StatCalc.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IntroToProgrammingExercises/PairOfDice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/899ABC88-C3F1-4C7D-B7BA-444AD3BDFC76/64/80c39967/UInt16.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IntroToProgrammingExercises/Counter.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/IntroToProgrammingExercises/PairOfDice.cs" />
+        <option value="$PROJECT_DIR$/IntroToProgrammingExercises/StatCalc.cs" />
+        <option value="$PROJECT_DIR$/IntroToProgrammingExercises/Counter.cs" />
+        <option value="$PROJECT_DIR$/IntroToProgrammingExercises/DeckOfCards.cs" />
+        <option value="$PROJECT_DIR$/IntroToProgrammingExercises/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="778" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="IntroToProgrammingExercises" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="IntroToProgrammingExercises" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="IntroToProgrammingExercises" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/IntroToProgrammingExercises/bin/Debug/netcoreapp2.0/IntroToProgrammingExercises.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntroToProgrammingExercises" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IntroToProgrammingExercises/IntroToProgrammingExercises.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d5ce079-bd1d-412d-b8b9-ad6e8b7b5401" name="Default Changelist" comment="" />
+      <created>1549929945373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549929945373</updated>
+      <workItem from="1549929947992" duration="3622000" />
+      <workItem from="1550014532490" duration="2957000" />
+      <workItem from="1550187617445" duration="3795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10374000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="778" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32944608" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39941692" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32944608" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/IntroToProgrammingExercises/StatCalc.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+          <folding>
+            <marker date="1549932514636" expanded="true" signature="80:1867" ph="{...}" />
+            <marker date="1549932514636" expanded="true" signature="434:608" ph="/* Add a number to the dataset.  The statistics will be computed for all ... */" />
+            <marker date="1549932514636" expanded="true" signature="647:1101" ph="{...}" />
+            <marker date="1549932514636" expanded="true" signature="756:838" ph="{...}" />
+            <marker date="1549932514636" expanded="true" signature="866:1091" ph="{...}" />
+            <marker date="1549932514636" expanded="true" signature="911:978" ph="{...}" />
+            <marker date="1549932514636" expanded="true" signature="1010:1077" ph="{...}" />
+            <marker date="1549932514636" expanded="true" signature="1114:1274" ph="/* Return the average of all the items that have been entered. ... */" />
+            <marker date="1549932514636" expanded="true" signature="1307:1352" ph="{...}" />
+            <marker date="1549932514636" expanded="true" signature="1365:1536" ph="/* Return the standard deviation of all the items that have been entered. ... */" />
+            <marker date="1549932514636" expanded="true" signature="1582:1693" ph="{...}" />
+            <marker date="1549932514636" expanded="true" signature="1725:1769" ph="{...}" />
+            <marker date="1549932514636" expanded="true" signature="1810:1854" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/899ABC88-C3F1-4C7D-B7BA-444AD3BDFC76/64/80c39967/UInt16.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroToProgrammingExercises/PairOfDice.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <marker date="1549931081196" expanded="true" signature="52:807" ph="{...}" />
+            <marker date="1549931081196" expanded="true" signature="83:787" ph="{...}" />
+            <marker date="1549931081196" expanded="true" signature="247:334" ph="{...}" />
+            <marker date="1549931081196" expanded="true" signature="367:454" ph="{...}" />
+            <marker date="1549931081196" expanded="true" signature="482:781" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroToProgrammingExercises/Counter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+          <folding>
+            <marker date="1550190936218" expanded="true" signature="6:75" ph="..." />
+            <marker date="1550190936218" expanded="true" signature="114:903" ph="{...}" />
+            <marker date="1550190936218" expanded="true" signature="141:901" ph="{...}" />
+            <marker date="1550190936218" expanded="true" signature="166:666" ph="/* For this problem, you should write a very simple but complete class. ... */" />
+            <marker date="1550190936218" expanded="true" signature="727:812" ph="{...}" />
+            <marker date="1550190936218" expanded="true" signature="845:886" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroToProgrammingExercises/DeckOfCards.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="108" column="10" selection-start-line="89" selection-end-line="108" selection-end-column="10" />
+          <folding>
+            <marker date="1550191388148" expanded="true" signature="52:4727" ph="{...}" />
+            <marker date="1550191388148" expanded="true" signature="76:4345" ph="{...}" />
+            <marker date="1550191388148" expanded="true" signature="93:278" ph="/* This card's suit, one of the constants SPADES, HEARTS, DIAMONDS, ... */" />
+            <marker date="1550191388148" expanded="true" signature="330:589" ph="/* The card's value.  For a normal cards, this is one of the values ... */" />
+            <marker date="1550191388148" expanded="true" signature="646:798" ph="/* Creates a Joker, with 1 as the associated value.  (Note that ... */" />
+            <marker date="1550191388148" expanded="true" signature="799:897" ph="/* public Card() { ... */" />
+            <marker date="1550191388148" expanded="true" signature="913:1561" ph="/* Creates a card with a specified suit and value. ... */" />
+            <marker date="1550191388148" expanded="true" signature="1614:2017" ph="{...}" />
+            <marker date="1550191388148" expanded="true" signature="2030:2222" ph="/* Returns the suit of this card. ... */" />
+            <marker date="1550191388148" expanded="true" signature="2252:2285" ph="{...}" />
+            <marker date="1550191388148" expanded="true" signature="2301:2505" ph="/* Returns the value of this card. ... */" />
+            <marker date="1550191388148" expanded="true" signature="2541:2575" ph="{...}" />
+            <marker date="1550191388148" expanded="true" signature="2591:2766" ph="/* Returns a String representation of the card's suit. ... */" />
+            <marker date="1550191388148" expanded="true" signature="2806:3097" ph="{...}" />
+            <marker date="1550191388148" expanded="true" signature="2834:3088" ph="{...}" />
+            <marker date="1550191388148" expanded="true" signature="3113:3374" ph="/* Returns a String representation of the card's value. ... */" />
+            <marker date="1550191388148" expanded="true" signature="3375:4000" ph="/* public String getValueAsString() { ... */" />
+            <marker date="1550191388148" expanded="true" signature="4016:4339" ph="/* Returns a string representation of this card, including both ... */" />
+            <marker date="1550191388148" expanded="true" signature="4376:4458" ph="{...}" />
+            <marker date="1550191388148" expanded="true" signature="4492:4713" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroToProgrammingExercises/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+          <folding>
+            <marker date="1550191427944" expanded="true" signature="6:38" ph="..." />
+            <marker date="1550191427944" expanded="true" signature="78:1363" ph="{...}" />
+            <marker date="1550191427944" expanded="true" signature="98:1361" ph="{...}" />
+            <marker date="1550191427944" expanded="true" signature="144:1355" ph="{...}" />
+            <marker date="1550191427944" expanded="true" signature="155:715" ph="/* StatCalc calc = new StatCalc(); ... */" />
+            <marker date="1550191427944" expanded="true" signature="908:1161" ph="{...}" />
+            <marker date="1550191427944" expanded="true" signature="969:1048" ph="{...}" />
+            <marker date="1550191427944" expanded="true" signature="1069:1147" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
